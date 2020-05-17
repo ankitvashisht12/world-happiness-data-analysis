@@ -1,6 +1,8 @@
 # World Happiness ( 2015 - 2017 ) Data Analysis
 
-> You can download the dataset from [here](https://www.kaggle.com/unsdsn/world-happiness)
+You can download the dataset from [here](https://www.kaggle.com/unsdsn/world-happiness)
+
+> *NOTE : You can copy the notebook link and paste it into [nbviewer](https://nbviewer.jupyter.org/) to properly render ipynb.*
 
 ### Tasks 
 
